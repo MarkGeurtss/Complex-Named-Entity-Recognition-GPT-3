@@ -1,0 +1,2 @@
+sentence,tags,fewshot_gpt
+"his grandson alfred iii , prince of windisch-grätz was an influential politician .","['O', 'O', 'Politician', 'Politician', 'Politician', 'Politician', 'Politician', 'Politician', 'O', 'O', 'O', 'O', 'O']","['Politician (alfred iii , prince of windisch-grätz)']"

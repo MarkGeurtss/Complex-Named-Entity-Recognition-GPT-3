@@ -1,0 +1,6 @@
+sentence,tags,fewshot_gpt
+the polymerase chain reaction was developed in the 1980s by kary mullis .,"['O', 'MedicalProcedure', 'MedicalProcedure', 'MedicalProcedure', 'O', 'O', 'O', 'O', 'O', 'O', 'OtherPER', 'OtherPER', 'O']","['MedicalProcedure (polymerase chain reaction)', 'OtherPER (kary mullis)']"
+there are many examples but carmen linares and duquende often incorporate overtones .,"['O', 'O', 'O', 'O', 'O', 'OtherPER', 'OtherPER', 'O', 'Artist', 'O', 'O', 'O', 'O']","['OtherPER (carmen linares)', 'Artist (duquende)']"
+the following year she appeared in the film night at the museum as ben stiller 's love interest .,"['O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'VisualWork', 'VisualWork', 'VisualWork', 'VisualWork', 'O', 'Artist', 'Artist', 'O', 'O', 'O', 'O']","['VisualWork (night at the museum)', 'Artist (ben stiller)']"
+the royal exchange was founded in this period .,"['O', 'Facility', 'Facility', 'O', 'O', 'O', 'O', 'O', 'O']",['Facility (royal exchange)']
+"his grandson alfred iii , prince of windisch-grätz was an influential politician .","['O', 'O', 'Politician', 'Politician', 'Politician', 'Politician', 'Politician', 'Politician', 'O', 'O', 'O', 'O', 'O']","['Politician (alfred iii , prince of windisch-grätz)']"

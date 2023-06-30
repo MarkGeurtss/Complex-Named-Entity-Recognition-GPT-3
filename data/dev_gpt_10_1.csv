@@ -1,0 +1,11 @@
+sentence,tags,fewshot_gpt
+on the same day the album 's first single like me featuring jeremih was released .,"['O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'MusicalWork', 'MusicalWork', 'O', 'Artist', 'O', 'O', 'O']","['MusicalWork (like me)', 'Artist (jeremih)']"
+it was added to the national register of historic places in 1978 .,"['O', 'O', 'O', 'O', 'O', 'WrittenWork', 'WrittenWork', 'WrittenWork', 'WrittenWork', 'WrittenWork', 'O', 'O', 'O']",['WrittenWork (national register of historic places)']
+"marks was born in mount vernon , new york .","['O', 'O', 'O', 'O', 'HumanSettlement', 'HumanSettlement', 'HumanSettlement', 'HumanSettlement', 'HumanSettlement', 'O']","['HumanSettlement (mount vernon , new york)']"
+vino a word for wine in some languages,"['O', 'O', 'O', 'O', 'Drink', 'O', 'O', 'O']",['Drink (wine)']
+in 1928 he began apprenticing under architect richard neutra with whom he was associated until 1932 .,"['O', 'O', 'O', 'O', 'O', 'O', 'O', 'OtherPER', 'OtherPER', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O']",['OtherPER (richard neutra)']
+she joined sheryl sandberg 's movement to encourage young women to be more assertive in professional interactions .,"['O', 'O', 'Scientist', 'Scientist', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O']",['Scientist (sheryl sandberg)']
+they built a monastery and developed a combined defense system .,"['O', 'O', 'O', 'Facility', 'O', 'O', 'O', 'O', 'O', 'O', 'O']",['Facility (monastery)']
+josé antonio abreu classical musician and founder of el sistema,"['Politician', 'Politician', 'Politician', 'O', 'O', 'O', 'O', 'O', 'ORG', 'ORG']","['Politician (josé antonio abreu)', 'ORG (el sistema)']"
+1946 kölnische rundschau begins publication .,"['O', 'WrittenWork', 'WrittenWork', 'O', 'O', 'O']",['WrittenWork (kölnische rundschau)']
+one of her anchors ( along with one of ark royal s ) stands guard at the entrance to the fleet air arm museum in yeovilton .,"['O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'OtherLOC', 'OtherLOC', 'OtherLOC', 'OtherLOC', 'O', 'Station', 'O']","['OtherLOC (fleet air arm museum)', 'Station (yeovilton)']"
